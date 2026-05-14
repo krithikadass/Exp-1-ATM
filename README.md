@@ -32,7 +32,8 @@ vi)Sequence Diagram
 
 ## ACTIVITY DIAGRAM:
 
-<img width="934" height="864" alt="WhatsApp Image 2026-04-28 at 11 36 47 AM" src="https://github.com/user-attachments/assets/6482a378-f8e8-49ae-8bd5-f883bd6032dc" />
+<img width="791" height="907" alt="image" src="https://github.com/user-attachments/assets/5b518d46-5f61-46c5-ab7e-9bfd36b53b55" />
+
 
 ## CLASS DIAGRAM:
 
