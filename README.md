@@ -7,7 +7,7 @@ To study the problem statement ,SRS document and draw the UML diagram of ATM and
 
 # SRS (Procedure):
 
-A Library Management System UML Diagram represents the design of how different components of a library interact. It typically includes several types of UML diagrams. Here's a simple explanation of each, along with the most important one: the Class Diagram. Use Case Diagram Shows actors and system functionalities. Actors: Librarian, Member Use Cases: Search Book, Issue Book, Return Book, Add Book, Remove Book, Pay Fine Sequence Diagram (Example: Book Issue Process) Shows object interactions in time sequence:
+The ATM and Banking Management System UML Diagram represents the design of how different components of a library interact. It typically includes several types of UML diagrams. Here's a simple explanation of each, along with the most important one: the Class Diagram. Use Case Diagram Shows actors and system functionalities. Actors: Librarian, Member Use Cases: Search Book, Issue Book, Return Book, Add Book, Remove Book, Pay Fine Sequence Diagram (Example: Book Issue Process) Shows object interactions in time sequence:
 
 Actor: Member
 
