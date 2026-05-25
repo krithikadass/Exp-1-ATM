@@ -11,7 +11,6 @@ The ATM and Banking Management System UML Diagram represents the design of how d
 
 Actor: Member
 
-Objects: Library System → Book → Borrower Activity Diagram Describes the flow of activities (like issuing a book). 47 List of Programs:
 
 i) Usecase Diagram
 
